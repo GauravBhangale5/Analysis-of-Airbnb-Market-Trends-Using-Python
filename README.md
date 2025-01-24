@@ -4,7 +4,6 @@ This project provides a detailed analysis of Airbnb datasets using Python and Pa
 
 ### Dataset and Notebook Links
 - **Dataset**: [Kaggle Airbnb Listings & Reviews Dataset](https://www.kaggle.com/datasets/mysarahmadbhat/airbnb-listings-reviews)
-- **Notebook**: [Kaggle Analysis Notebook](https://www.kaggle.com/code/adesh1214/airbnb)
 
 ## Key Features
 
